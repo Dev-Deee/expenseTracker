@@ -33,3 +33,17 @@ build/
 .vscode/
 .env
 .env
+.env
+.env
+# added during cleanup
+*.class
+__pycache__/
+*.pyc
+out/
+.env.local
+node_modules/
+.next/
+tmp/
+*.bak
+.idea/
+.DS_Store
