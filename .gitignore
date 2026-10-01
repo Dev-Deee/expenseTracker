@@ -30,6 +30,15 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
-.env
-.env
+# added during cleanup
+*.class
+__pycache__/
+*.pyc
+out/
+node_modules/
+.next/
+tmp/
+*.bak
+.idea/
+.DS_Store
+config.bat
