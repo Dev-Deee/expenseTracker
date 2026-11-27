@@ -41,4 +41,6 @@ tmp/
 *.bak
 .idea/
 .DS_Store
-config.bat
+.vscode/
+.env
+.env
